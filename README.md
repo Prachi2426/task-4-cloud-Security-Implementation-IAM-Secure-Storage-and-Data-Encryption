@@ -54,8 +54,6 @@ Through this project, I gained practical experience in:
 - Data encryption and key management
 - Security best practices in AWS and GCP
 
-## Repository Link
-GitHub Repository: https://github.com/Prachi2426/cloud-internship-task4
 
 ## Author
 **Prachi Gupta**  
