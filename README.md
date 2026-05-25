@@ -4,8 +4,7 @@
 # Domain - cloud computing 
 # Duration- 8 weeks 
 # Mentor - Neela Santosh
-# Task 4 – Cloud Security (CodTech Internship)
-# Cloud Security Implementation: IAM, Secure Storage, and Data Encryption
+# Task 4 – Cloud Security Implementation: IAM, Secure Storage, and Data Encryption
 
 ## Task Overview
 This task was completed as part of the **CODTECH Cloud Computing Internship**.  
